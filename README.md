@@ -1,4 +1,4 @@
-#Priview Web
+# Priview Web
 
 ![localhost_3000_ (1)](https://github.com/zyhapis/Pertemuan-15-JS/assets/144297795/be4da9a5-372e-4f84-9276-daee0b66a9ce)
 
